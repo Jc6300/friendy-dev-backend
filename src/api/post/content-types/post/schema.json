@@ -22,6 +22,10 @@
     "excerpt": {
       "type": "text"
     },
+    "body": {
+      "type": "richtext",
+      "required": true
+    },
     "date": {
       "type": "datetime"
     },
@@ -34,10 +38,6 @@
         "videos",
         "audios"
       ]
-    },
-    "body": {
-      "type": "richtext",
-      "required": true
     }
   }
 }
