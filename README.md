@@ -1,3 +1,16 @@
+# Features
+
+- REST API for Projects and Blog Posts
+- Rich media upload support (via Strapi Media Library)
+- Cloudinary integration for image uploads
+- Custom fields including image, tags, description, etc.
+- Role-based admin panel
+- Easily deployable to services like Render, Railway, or DigitalOcean
+
+
+
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
